@@ -1,0 +1,19 @@
+1. Employee Interface:
+- User registration and profile setup.
+- Easy product browsing, filtering, and search.
+- Detailed product pages with images and pricing.
+- Shopping cart for item management and checkout.
+- Secure online payment options.
+- Access to order history and returns/exchanges.
+//- Personalized product recommendations.
+2. Seller Interface:
+- Product management for adding, updating, and pricing items.
+- Order management with order status and shipping details.
+- Communication tools for interacting with customers.
+- Sales reporting for insights.
+3. Administrator (Convener) Interface:
+- User account management, including adding, deleting, and modifying profiles.
+- Product catalog management.
+- Fine management if applicable.
+- Reporting and analytics for sales and inventory.
+- System configuration for settings and security.
